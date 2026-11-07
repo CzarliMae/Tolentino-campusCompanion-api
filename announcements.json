@@ -1,27 +1,37 @@
 [
   {
-    "title": "Enrollment for Regular Students are now open" ,
-    "date": "October 22, 2026" ,
-    "category": "Registrar"
+    "title": "Enrollment for Regular Students are now open",
+    "date": "October 22, 2026",
+    "category": "Registrar",
+    "location": "Registrar's Office",
+    "priorityLevel": "High"
   },
   {
-    "title": "Enrollment for Iregular Students will open on 10/26/2026" ,
-    "date": "October 24, 2026" ,
-    "category": "Registrar"
+    "title": "Enrollment for Iregular Students will open on 10/26/2026",
+    "date": "October 24, 2026",
+    "category": "Registrar",
+    "location": "Registrar's Office",
+    "priorityLevel": "High"
   },
   {
-    "title": "Petition Form is now posted on the bulletin board of Room F1009" ,
-    "date": "October 20, 2026" ,
-    "category": "CSS Department"
+    "title": "Petition Form is now posted on the bulletin board of Room F1009",
+    "date": "October 20, 2026",
+    "category": "CSS Department",
+    "location": "Room F1009",
+    "priorityLevel": "Normal"
   },
   {
-    "title": "New Library hours are now posted in the entrance" ,
-    "date": "October 26, 2026" ,
-    "category": "Library"
+    "title": "New Library hours are now posted in the entrance",
+    "date": "October 26, 2026",
+    "category": "Library",
+    "location": "Library Entrance",
+    "priorityLevel": "Normal"
   },
   {
-    "title": "FEUTECH TEC: Welcomes Valorant Acad Arena" ,
-    "date": "October 24, 2026" ,
-    "category": "SADO"
+    "title": "FEUTECH TEC: Welcomes Valorant Acad Arena",
+    "date": "October 24, 2026",
+    "category": "SADO",
+    "location": "FEU Tech Campus",
+    "priorityLevel": "Normal"
   }
 ]
